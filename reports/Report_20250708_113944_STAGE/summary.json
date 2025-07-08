@@ -1,0 +1,15 @@
+{
+  "passed": 117,
+  "failed": 3,
+  "flaky": 0,
+  "skipped": 42,
+  "total": 120,
+  "allTotal": 163,
+  "failedTests": [
+    "BR-24336 : Assigning a claim - claim list page -  Non Insurance",
+    "BR-24338 : unassign a claim -  Non Insurance",
+    "BR-24344 : Finding a Invalid claim - Non Insurance"
+  ],
+  "duration": "68m 24s",
+  "percent": 98
+}

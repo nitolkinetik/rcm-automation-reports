@@ -1,0 +1,25 @@
+{
+  "passed": 108,
+  "failed": 13,
+  "flaky": 0,
+  "skipped": 42,
+  "total": 121,
+  "allTotal": 163,
+  "failedTests": [
+    "BR-24317 : Archived claims should be shown in Archived claims page",
+    "BR-24316 : Assigned claims should be shown in Assigned claims page",
+    "BR-24336 : Assigning a claim - claim list page -  Non Insurance",
+    "BR-24338 : unassign a claim -  Non Insurance",
+    "BR-24344 : Finding a Invalid claim - Non Insurance",
+    "BR-24832 : Updating diagnosis code for code A",
+    "BR-24862 : SK& RG Adding a custom field",
+    "BR-24863 : SK& RG Updating a custom field",
+    "BR-24864 : SK& RG Event log on removing a custom field",
+    "BR-24773 : SK& Edit the Remote Payment ID in Claim Payment(s) of a claim successfully",
+    "BR-24776 : SK& The total paid is working properly",
+    "BR-25172 : AT_Updating 3 claims with all patient data",
+    "BR-25396 : AT Change claim status to Through Bulk edit (Broker cancelled to Ready to bill)"
+  ],
+  "duration": "70m 22s",
+  "percent": 89
+}

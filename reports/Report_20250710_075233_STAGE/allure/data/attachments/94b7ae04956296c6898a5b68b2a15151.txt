@@ -1,0 +1,24 @@
+2025-07-10 13:32 [INFO]: 🚀 ############## New Test Begin ############## 🚀
+2025-07-10 13:32 [INFO]: 🌟 **** Testcase - BR-25477 : Non-In AT_Change Account of 5 cliams using Bulk Edit **** 🌟
+2025-07-10 13:32 [INFO]: 🖱️ Going to Open Non Insurance Claim Table...
+2025-07-10 13:32 [INFO]: 🖱️ Going to Non Insurance Claim Table...
+2025-07-10 13:32 [INFO]: ✅ Non Insurance Claim Table Showing!
+2025-07-10 13:32 [INFO]: ✅ Non Insurance Claim Table Opened!
+2025-07-10 13:32 [INFO]: 🖱️ Going to Select 5 Claims...
+2025-07-10 13:32 [INFO]: Claim table list checkbox selected: 1
+2025-07-10 13:32 [INFO]: Claim table list checkbox selected: 2
+2025-07-10 13:32 [INFO]: Claim table list checkbox selected: 3
+2025-07-10 13:32 [INFO]: Claim table list checkbox selected: 4
+2025-07-10 13:32 [INFO]: Claim table list checkbox selected: 5
+2025-07-10 13:32 [INFO]: ✅ 5 Claims Selected!
+2025-07-10 13:32 [INFO]: 🖱️ Going to Open Edit Account Modal...
+2025-07-10 13:32 [INFO]: ✅ Edit Account Modal Opened!
+2025-07-10 13:32 [INFO]: 🖱️ Going to Update Account...
+2025-07-10 13:33 [INFO]: ✅ Account Updated!
+2025-07-10 13:33 [INFO]: 🔍 Going to Verify Updated Account...
+2025-07-10 13:33 [INFO]: Verifying claim details ID - nclmvl9pt3rvqgajgku2
+2025-07-10 13:33 [INFO]: Verifying claim details ID - nclmh26rcztvnl4hfn9a
+2025-07-10 13:33 [INFO]: Verifying claim details ID - nclmsxsr1updh41jdndl
+2025-07-10 13:33 [INFO]: Verifying claim details ID - nclmtyxac0iiuo9ciyqt
+2025-07-10 13:33 [INFO]: Verifying claim details ID - nclmqczntvg0xfybabwb
+2025-07-10 13:33 [INFO]: ✅ Updated Account Verified!

@@ -1,0 +1,134 @@
+2025-07-10 12:54 [INFO]: 🌟 **** Testcase - BR-24321 : Make a claim status Pending and check in the pending page - Professional **** 🌟
+2025-07-10 12:54 [INFO]: 🖱️ Going to Verify Pending Claim Status...
+2025-07-10 12:54 [INFO]: 🔗 Fetching claims from URL: https://api.stage.kinetik.technology/billing/claims/professional?apiKey=apikey19g6dmcd8xt61&secretKey=apisct19g6em5ys6ns1&dateRangeFor=dateOfService&claimType=f301&c08&dateOne=2025-06-10T00:00:00.000Z&dateTwo=2025-07-10T23:59:59.999Z&displayID=Pending%20Claims&limit=100&page=1
+2025-07-10 12:54 [INFO]: ✅ Total c08 claims: 100
+2025-07-10 12:54 [INFO]: ✅ Claim pclmovmtkjp2klfq9p4l updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmdxov8byveemf9qn1 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmjelkq6360y7m7ahv updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm3qva6bntzt4bu820 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmsrmgesi5984hnnvn updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmbcidaa3aiqohuiwo updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmv83cvhdkd8xy14am updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmti7sk6jk06h723vo updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmt633pxoyi97id730 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmeyupimqcf2qt5ja2 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclml8z1cxa6ltqifslc updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmv7p9yzgisixadryy updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm37ubquxjnctyqdv6 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm3o0sg8gsimx6vbqz updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm6h3mxzgmxvh01ywp updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmljgh6ygga7laa0nm updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmvh62slvbczwv5kwm updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmyclq0755nv4wdkf1 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm98hwx40m5lkbvtzn updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmv3p95pw5njyw8jxx updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmf4w1v45syngsbkns updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmyer9oqi1b3iyd8bg updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmsckjq77u4i5ijw90 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmhccw623ememonimh updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmxo4tdtqaf00fe2d1 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm3kel59qczdmy1kqy updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmj6p6oq15jryxoi77 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmjikimxgs4c1tzbv1 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmnw9omm3fvmaif2im updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmdnxjxyzy4tgpaab4 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmwfdr4dk4ex27c0r7 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmz9jbn9cbab9guofd updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm0mk23jd9nx9i99y7 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmv89hm70i29yc9hpl updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmo5c6otlp3sleqmtk updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmvtvx4cgzlrqd4xp7 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmhznc4vzj4zq117w1 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmqw1sf12zsg3qyhv6 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmqrxedtby00azzc5c updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm7rt4bz1eivbzarkl updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmrrir31y4ypemqj4v updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmb5m23lr4xlbl7x5m updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmkpkgjprf0d1z08hl updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmp47x87stq6kpme95 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmscsw7or86hdq9g4w updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm4x2k1f4dmqh6lto4 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmgbd2nxel94aucgms updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmz4agw0csvcawhjne updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmbxdug8d330me70w5 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmovz09osugi4d9fip updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmrd409uxpkt5e0rbm updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmjokhrdtkx07nzwpg updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmiarf5yvgz1jatfek updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmhkvtb6hbmk36v4ri updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmv3bsa6w05iv224vf updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm0pmh30ttpf1ms3fx updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmdr2qdgoyzc2m4ons updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmw8l3uii9ksmsfy7z updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmv7meb1ompbwiw607 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclml7gmpdtyfmlvlxmz updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmo6eiqmr79hewk1u0 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmzqn12dgoz8gtlral updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm26q9s0yvm6vae2vw updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmtbj6izmw6qcdqrcg updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmnbx0c94rhgavvj31 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmasozo21xnxub16kh updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmqacla2d5jy93j107 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmdo5q494e71oqbgut updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmcgecisdl6xf23ep6 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm9nc3vwnx703lxyfn updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmi1a550ou29j9bdk8 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmnp38b4yqmzax8fwh updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmhvblz7nk9va1f9sy updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmj2tqynhgtop6zhcf updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmbx8vu1wcxz3n352s updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmqrc7cakdjkc5lpmx updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm01xlbo5usivn9pno updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmwsf8r4afyg17d84q updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmixclsf5kn88tsio6 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm9pnehmva3dw6l68f updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm07cl0lzldgrcddu9 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm19el2utuozu8652i updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm03w2ugnwjz7s0dws updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm77a7dbjdmqvc76cn updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmfjxzwrz41attuf53 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm3jxx6tntkfo0sh21 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm5t3daci31o6lkycj updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmvjf8yq4s5j1wcg24 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm1sl4wwihjwl6qk9k updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm0v6ych9hmw0ok4ub updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmwz8qefyw1ckt5biz updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmzpa00dz60s1vlj66 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclm2e9kz1uz0my41pyx updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmgtpfoy46nvz5c18w updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmso41ivq7lqeqs4wr updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmz65iqsdmi1inbkf8 updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmzabc7ac4hjxjxubd updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmplzvxj74ys80giqv updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmdxcilzepxfiu6pvw updated successfully
+2025-07-10 12:54 [INFO]: ✅ Claim pclmskq9arj0gxn1bwn4 updated successfully
+2025-07-10 12:54 [INFO]: 🎉 All claims updated successfully!
+2025-07-10 12:54 [INFO]: ✅ Pending Claim Status Verified!
+2025-07-10 12:54 [INFO]: 📤 Attempt 1/5: Sending API request...
+2025-07-10 12:54 [INFO]: 📥 Attempt 1: Response Status 200
+2025-07-10 12:54 [INFO]: ✅ Successful API Response: {"status":"success","statusCode":200,"message":"Successfully created 1 new claim(s)","payload":{"count":1,"creationGroupID":"api19g6fmcx18qkw"}} ✅
+2025-07-10 12:54 [INFO]: Successfully created 1 new claim(s)
+2025-07-10 12:54 [INFO]: Professional Claim ID: id=pclmeadu2suzo7wrj3xh
+2025-07-10 12:54 [INFO]: 🔍 Going to Verify Claim Detail Page...
+2025-07-10 12:54 [INFO]: ✅ Claim Detail Page Verified!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Click Ready To Bill Button...
+2025-07-10 12:54 [INFO]: ✅ Ready To Bill Button Clicked!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Click Pending Button...
+2025-07-10 12:54 [INFO]: ✅ Pending Button Clicked!
+2025-07-10 12:54 [INFO]: 🔍 Going to Verify Pending Status...
+2025-07-10 12:54 [INFO]: ✅ Pending Status Verified!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Click Billing Module Button...
+2025-07-10 12:54 [INFO]: ✅ Billing Module Clicked!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Verify Claim Dropdown Section...
+2025-07-10 12:54 [INFO]: ✅ Claim Dropdown Section Verified!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Click Claim Breakdown Button...
+2025-07-10 12:54 [INFO]: ✅ Claim Breakdown Button Clicked!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Select Professional...
+2025-07-10 12:54 [INFO]: ✅ Professional Selected!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Verify Pending Claims Increased...
+2025-07-10 12:54 [INFO]: Pending claims count: 8
+2025-07-10 12:54 [INFO]: ✅ Pending Claims Increased!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Click Pending Claims Button...
+2025-07-10 12:54 [INFO]: ✅ Pending Claims Button Clicked!
+2025-07-10 12:54 [INFO]: 🖱️ Going to Verify Pending Claims Page...
+2025-07-10 12:54 [INFO]: ✅ Pending Claims Page Verified!

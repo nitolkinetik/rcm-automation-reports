@@ -1,0 +1,6 @@
+2025-07-10 13:40 [INFO]: Test setup: ProfCreateClaimPage initialized.
+2025-07-10 13:40 [INFO]: The user is in billing page
+2025-07-10 13:40 [INFO]: will create a Non-In claim from a method
+2025-07-10 13:40 [INFO]: Successfully Non-In Calim Created!
+2025-07-10 13:40 [INFO]: veryfying claim creatoin confirmation message
+2025-07-10 13:40 [INFO]: Message Verified

@@ -1,0 +1,1 @@
+{"id":"2a3439b8885dddfbee7a8f3d0ae48b5c","fullName":"billing/claimTable/bulkEditTest.spec.ts:1275:7","name":"BR-25488 : Non-In AT Change claim status to Through Bulk edit (Billed to ready to billed)","status":"failed","testResultsByEnv":{"default":"8c74b07a7e555cd7201720995e7e2dae"}}

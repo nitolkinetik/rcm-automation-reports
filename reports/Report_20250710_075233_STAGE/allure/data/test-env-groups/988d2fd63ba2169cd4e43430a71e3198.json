@@ -1,0 +1,1 @@
+{"id":"988d2fd63ba2169cd4e43430a71e3198","fullName":"billing/createClaim/createClaimNonIn.spec.ts:17:7","name":"BR-24208 : Non-Insurance claim creation with required fields only","status":"passed","testResultsByEnv":{"default":"50d7153c5c618545d8392c4abbd03bfb"}}

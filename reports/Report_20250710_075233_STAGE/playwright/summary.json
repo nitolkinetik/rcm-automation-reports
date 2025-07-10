@@ -1,0 +1,14 @@
+{
+  "passed": 119,
+  "failed": 2,
+  "flaky": 0,
+  "skipped": 42,
+  "total": 121,
+  "allTotal": 163,
+  "failedTests": [
+    "BR-24344 : Finding a Invalid claim - Non Insurance",
+    "BR-25488 : Non-In AT Change claim status to Through Bulk edit (Billed to ready to billed)"
+  ],
+  "duration": "65m 4s",
+  "percent": 98
+}

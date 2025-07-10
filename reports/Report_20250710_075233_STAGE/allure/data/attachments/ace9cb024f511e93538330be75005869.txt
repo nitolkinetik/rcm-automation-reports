@@ -1,0 +1,39 @@
+2025-07-10 13:31 [INFO]: 🚀 ############## New Test Begin ############## 🚀
+2025-07-10 13:31 [INFO]: 🌟 **** Testcase - BR-25398 : AT Change claim status to Through Bulk edit (Billed to ready to billed) **** 🌟
+2025-07-10 13:31 [INFO]: 🖱️ Going to Open Professional Claim Table...
+2025-07-10 13:31 [INFO]: 🖱️ Going to Professional Claim Table...
+2025-07-10 13:31 [INFO]: ✅ Professional Claim Table Showing!
+2025-07-10 13:31 [INFO]: ✅ Professional Claim Table Opened!
+2025-07-10 13:31 [INFO]: 🖱️ Going to Select 5 Claims...
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 1
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 2
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 3
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 4
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 5
+2025-07-10 13:31 [INFO]: ✅ 5 Claims Selected!
+2025-07-10 13:31 [INFO]: 🖱️ Going to Open Edit Patient Modal...
+2025-07-10 13:31 [INFO]: ✅ Edit Patient Modal Opened!
+2025-07-10 13:31 [INFO]: 📝 Going to Update Claim Status...
+2025-07-10 13:31 [INFO]: ✅ Claim Status Updated!
+2025-07-10 13:31 [INFO]: 🖱️ Going to Click Update Button...
+2025-07-10 13:31 [INFO]: ✅ Update Button Clicked!
+2025-07-10 13:31 [INFO]: 🖱️ Going to Select 5 Claims...
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 1
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 2
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 3
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 4
+2025-07-10 13:31 [INFO]: Claim table list checkbox selected: 5
+2025-07-10 13:31 [INFO]: ✅ 5 Claims Selected!
+2025-07-10 13:31 [INFO]: 🖱️ Going to Open Edit Patient Modal...
+2025-07-10 13:31 [INFO]: ✅ Edit Patient Modal Opened!
+2025-07-10 13:31 [INFO]: 📝 Going to Update Claim Status...
+2025-07-10 13:31 [INFO]: ✅ Claim Status Updated!
+2025-07-10 13:31 [INFO]: 🖱️ Going to Click Update Button...
+2025-07-10 13:31 [INFO]: ✅ Update Button Clicked!
+2025-07-10 13:31 [INFO]: 🔍 Going to Verify Updated Claim Status...
+2025-07-10 13:31 [INFO]: Verifying claim details ID - pclmluitonqbya09p4cp
+2025-07-10 13:31 [INFO]: Verifying claim details ID - pclmqswb2lxvlqhschxr
+2025-07-10 13:31 [INFO]: Verifying claim details ID - pclmn0q168qvazovzp3k
+2025-07-10 13:31 [INFO]: Verifying claim details ID - pclmzzyg7eyecl0f4sjv
+2025-07-10 13:31 [INFO]: Verifying claim details ID - pclm6u73b7iicbdcnppb
+2025-07-10 13:31 [INFO]: ✅ Updated Claim Status Verified!

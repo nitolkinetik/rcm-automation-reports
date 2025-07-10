@@ -1,0 +1,134 @@
+2025-07-10 13:04 [INFO]: 🌟 **** Testcase - BR-24350 : Finding a Pending claim - Non Insurance **** 🌟
+2025-07-10 13:04 [INFO]: 🖱️ Going to Verify Pending Claim Status...
+2025-07-10 13:04 [INFO]: 🔗 Fetching claims from URL: https://api.stage.kinetik.technology/billing/claims/noninsurance?apiKey=apikey19g6dmcd8xt61&secretKey=apisct19g6em5ys6ns1&dateRangeFor=dateOfService&claimType=f301&c08&dateOne=2025-06-10T00:00:00.000Z&dateTwo=2025-07-10T23:59:59.999Z&displayID=Pending%20Claims&limit=100&page=1
+2025-07-10 13:04 [INFO]: ✅ Total c08 claims: 100
+2025-07-10 13:04 [INFO]: ✅ Claim nclm0pcikv0eo3rasr2j updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmenxt3ezhj9drz93j updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm3p0g0z9iqnh9n3o8 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmb3kn7q94hl5h20uv updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm2ngqk1g21tn3w3n4 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmisk5gxz1206uuu7x updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmd54u8uycgyt4gnc8 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclme1qn5w48evy9zp47 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmdydv2zus1xgnkz54 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmdof3fth7yly1turl updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmi9z1yi9a86nokgcq updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm8dkscyeiftkl2ef4 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmrunf3owbnfu0y58v updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmow1m6fo9qudty9f0 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmhq37hfdslqmnmayy updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmt63xytkibmwzex84 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmso241j2fmgr0zyk1 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmwaz3oc1vr6zouu98 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm49s1af42i25e2dq6 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclms0a82o253iyvt13b updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm2p2a48cyfceh5zlq updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm6a6nzoixcdd3799t updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmeernn9ole381sip3 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmnpfasmzdhltygqz4 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm4z0klcy6hw5c1lzc updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmu6dep7rfjuaz20kb updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmf3ckcg7f52m7pbba updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm7xzxlu9vor0oy7oj updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmtptfcjr4i7nlnx0p updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm2a77da0iojje29rw updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmo32xqqwha8uruafo updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm0tnrahxbv7r3578h updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm8ofjtftcv6xub8rt updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmgcxfkm5dxo04ixe2 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm7988jpso5r7xcppa updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmqok68kw0egbo1r11 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm8bk5le7ce8e1ovvj updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm1t3dsihkr2impipa updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmmzc8c9ui3gocik6r updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmqufq8pzry6xysxqa updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmg8js1za6djhs3ywa updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm5dpiipdir09q9p47 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmux7u67mkn15ifowi updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmjtkea03d8sy1e43u updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm8ad256klyzc2gh1k updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmgk08y9cvdylb01vi updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm4si5pduv80axjeh5 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm22modpds4z1aa17e updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmrjimzupr1a6o57nt updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmytr9x1ajlvevq3nz updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmowk8t10gok56ls5j updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmfdftlltq1fwo03z9 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm9aqur7v1o821y81o updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm1hbzp9oeqwdewtjx updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm6va05xivrf6n5fzb updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmcsyida3246vl4yye updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmawysy2xxfrd5nw5z updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmsug3sc7ks8j6ny4j updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm13vv5zc53wzkbhsi updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmoc3wb169q7lrj863 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmuu7zlk7mbqsmuf8n updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmz71ikffrltd9bxp8 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmg2zq99br2k3htyxo updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm7jd23t5w10k2e70y updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmvhq4u4wvdf09fd5l updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmjo4if2o043zwypmq updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmxnllrnirexn8u6pc updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmvuv0wvbrz18nc4i7 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmwkj267jhrqetl2j8 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmcddytsrxl4lntia1 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmq4liiohr1tf4e5fy updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmx30ub3pjh2hfs252 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm76450htrvxlasupl updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm5qc6rhmyqqacgu8x updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmpzv9bg8gzy8sv64t updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmcoswd2a06kfs5xea updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmhn23j834lly75e4d updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmxlpav0m4rrp3snkk updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmg4hw72v7ten94aj3 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmken0f75lpk142z9d updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmdm9lyih3vlg5ca3f updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmr9nqtgk7nps58iym updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmoop5e8phkl3sovy1 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmf3ync75l75ad2syt updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmruqww9erjosjypvk updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmm0sq3xvffrsevwbq updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm8g1buaj6qsw26wvk updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmvlyut8tfvuj1hbw4 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmbp4odtm5dq2nyl4q updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmgd52yt0001bgj56i updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmpk9gw61s7svoms6c updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmjik4yulqp86nh9y0 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmivpgtcaq37px8hv0 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmm4oi9i2efk5g5tlk updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmzv3ssmxh0vkgj6jt updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmb43r7jtyz6wyoaoc updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmmtn96tenknjhrcjv updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmqlcl5kebji3afixv updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclm2lpo7z82ri00tkw2 updated successfully
+2025-07-10 13:04 [INFO]: ✅ Claim nclmjha8youh18x9hqt3 updated successfully
+2025-07-10 13:04 [INFO]: 🎉 All claims updated successfully!
+2025-07-10 13:04 [INFO]: ✅ Pending Claim Status Verified!
+2025-07-10 13:04 [INFO]: 📤 Attempt 1/5: Sending API request...
+2025-07-10 13:04 [INFO]: 📥 Attempt 1: Response Status 200
+2025-07-10 13:04 [INFO]: ✅ API Response: {"status":"success","statusCode":200,"message":"Successfully created 1 new claim(s)","payload":{"count":1,"creationGroupID":"api19g6fmcx1li7q"}} ✅
+2025-07-10 13:04 [INFO]: Successfully created 1 new claim(s)
+2025-07-10 13:04 [INFO]: Non Insurance Claim ID: id=nclmjfz0x9f35ryuq6hj
+2025-07-10 13:04 [INFO]: 🔍 Going to Verify Claim Detail Page...
+2025-07-10 13:04 [INFO]: ✅ Claim Detail Page Verified!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Click Ready To Bill Button...
+2025-07-10 13:04 [INFO]: ✅ Ready To Bill Button Clicked!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Click Pending Button...
+2025-07-10 13:04 [INFO]: ✅ Pending Button Clicked!
+2025-07-10 13:04 [INFO]: 🔍 Going to Verify Pending Status...
+2025-07-10 13:04 [INFO]: ✅ Pending Status Verified!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Click Billing Module Button...
+2025-07-10 13:04 [INFO]: ✅ Billing Module Clicked!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Verify Claim Dropdown Section...
+2025-07-10 13:04 [INFO]: ✅ Claim Dropdown Section Verified!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Click Claim Breakdown Button...
+2025-07-10 13:04 [INFO]: ✅ Claim Breakdown Button Clicked!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Select Non Insurance...
+2025-07-10 13:04 [INFO]: ✅ Non Insurance Selected!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Verify Pending Claims Increased...
+2025-07-10 13:04 [INFO]: Pending claims count: 1
+2025-07-10 13:04 [INFO]: ✅ Pending Claims Increased!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Click Pending Claims Button...
+2025-07-10 13:04 [INFO]: ✅ Pending Claims Button Clicked!
+2025-07-10 13:04 [INFO]: 🖱️ Going to Verify Pending Claims Page...
+2025-07-10 13:04 [INFO]: ✅ Pending Claims Page Verified!

@@ -1,0 +1,30 @@
+2025-07-10 13:34 [INFO]: 🚀 ############## New Test Begin ############## 🚀
+2025-07-10 13:34 [INFO]: 🌟 **** Testcase - BR-25483 : Non-In AT Applying bulk edit on 5 claims on Transportation data **** 🌟
+2025-07-10 13:34 [INFO]: 🖱️ Going to Open Non Insurance Claim Table...
+2025-07-10 13:34 [INFO]: 🖱️ Going to Non Insurance Claim Table...
+2025-07-10 13:34 [INFO]: ✅ Non Insurance Claim Table Showing!
+2025-07-10 13:34 [INFO]: ✅ Non Insurance Claim Table Opened!
+2025-07-10 13:34 [INFO]: 🖱️ Going to Select 5 Claims...
+2025-07-10 13:34 [INFO]: Claim table list checkbox selected: 1
+2025-07-10 13:34 [INFO]: Claim table list checkbox selected: 2
+2025-07-10 13:34 [INFO]: Claim table list checkbox selected: 3
+2025-07-10 13:34 [INFO]: Claim table list checkbox selected: 4
+2025-07-10 13:34 [INFO]: Claim table list checkbox selected: 5
+2025-07-10 13:34 [INFO]: ✅ 5 Claims Selected!
+2025-07-10 13:34 [INFO]: 🖱️ Going to Open Edit Patient Modal...
+2025-07-10 13:34 [INFO]: ✅ Edit Patient Modal Opened!
+2025-07-10 13:34 [INFO]: 📝 Going to Update Custom Pickup Address...
+2025-07-10 13:34 [INFO]: ✅ Custom Pickup Address Updated!
+2025-07-10 13:34 [INFO]: 📝 Going to Update Custom Dropoff Address...
+2025-07-10 13:34 [INFO]: ✅ Custom Dropoff Address Updated!
+2025-07-10 13:34 [INFO]: 📝 Going to Update Other Transportation Details...
+2025-07-10 13:34 [INFO]: ✅ Other Transportation Details Updated!
+2025-07-10 13:34 [INFO]: 🖱️ Going to Click Update Button...
+2025-07-10 13:34 [INFO]: ✅ Update Button Clicked!
+2025-07-10 13:34 [INFO]: 🔍 Going to Verify Updated Transportation...
+2025-07-10 13:34 [INFO]: Verifying claim details ID - nclmvl9pt3rvqgajgku2
+2025-07-10 13:34 [INFO]: Verifying claim details ID - nclmh26rcztvnl4hfn9a
+2025-07-10 13:34 [INFO]: Verifying claim details ID - nclmsxsr1updh41jdndl
+2025-07-10 13:34 [INFO]: Verifying claim details ID - nclmtyxac0iiuo9ciyqt
+2025-07-10 13:34 [INFO]: Verifying claim details ID - nclmqczntvg0xfybabwb
+2025-07-10 13:34 [INFO]: ✅ Updated Transportation Verified!

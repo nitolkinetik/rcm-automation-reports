@@ -1,0 +1,231 @@
+{
+  "config": {
+    "configFile": "/opt/atlassian/pipelines/agent/build/playwright.config.ts",
+    "rootDir": "/opt/atlassian/pipelines/agent/build/tests",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": "/opt/atlassian/pipelines/agent/build/global-setup.ts",
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "html",
+        {
+          "outputFolder": "playwright-report"
+        }
+      ],
+      [
+        "json",
+        {
+          "outputFile": "playwright-report/test-results.json"
+        }
+      ],
+      [
+        "/opt/atlassian/pipelines/agent/build/node_modules/allure-playwright/dist/cjs/index.js",
+        {
+          "outputFolder": "allure-results"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/opt/atlassian/pipelines/agent/build/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "/opt/atlassian/pipelines/agent/build/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 180000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.53.2",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "billing/claimDetail/claimDetailTest.spec.ts",
+      "file": "billing/claimDetail/claimDetailTest.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Claim Detail Test",
+          "file": "billing/claimDetail/claimDetailTest.spec.ts",
+          "line": 15,
+          "column": 6,
+          "specs": [
+            {
+              "title": "BR-25496 : AT_Transportation data update Prof",
+              "ok": true,
+              "tags": [
+                "Nitol",
+                "Billing",
+                "Claim"
+              ],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 31619,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🚀 ############## New Test Begin ############## 🚀\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🌟 **** Testcase - BR-25496 : AT_Transportation data update Prof **** 🌟\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 📤 Attempt 1/5: Sending API request...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 📥 Attempt 1: Response Status 200\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Successful API Response: {\"status\":\"success\",\"statusCode\":200,\"message\":\"Successfully created 1 new claim(s)\",\"payload\":{\"count\":1,\"creationGroupID\":\"api19g6fmcxg0s1p\"}} ✅\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: Successfully created 1 new claim(s)\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: Professional Claim ID: id=pclmyrn9zzat1o8yeqyg\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🔍 Going to Verify Claim Detail Page...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Claim Detail Page Verified!\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🖱️ Going to Click Add Transportation Button...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🖱️ Add Transportation Button Clicked!\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 📝 Going to Add Custom Pickup Address...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Custom Pickup Address Added!\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 📝 Going to Add Custom Dropoff Address...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Custom Dropoff Address Added!\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 📝 Going to Update Other Transportation Details...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Other Transportation Details Updated!\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🖱️ Going to Click Update Button...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Update Button Clicked!\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: 🔍 Going to Verify Added Transportation...\n"
+                        },
+                        {
+                          "text": "2025-07-10 19:48 [INFO]: ✅ Added Transportation Verified!\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Create A New Professional Claim First",
+                          "duration": 8138
+                        },
+                        {
+                          "title": "Select Any Professional Claim & Open Claim Details",
+                          "duration": 13067
+                        },
+                        {
+                          "title": "Click Add Transportation Button",
+                          "duration": 847
+                        },
+                        {
+                          "title": "Add Custom Pickup Address",
+                          "duration": 2150
+                        },
+                        {
+                          "title": "Add Custom Dropoff Address",
+                          "duration": 2040
+                        },
+                        {
+                          "title": "Update Other Transportation Details",
+                          "duration": 2033
+                        },
+                        {
+                          "title": "Click Update Button",
+                          "duration": 461
+                        },
+                        {
+                          "title": "Verify Added Transportation",
+                          "duration": 2216
+                        }
+                      ],
+                      "startTime": "2025-07-10T13:48:10.411Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "7d9600922804afaa11ae-b3dea52cc4e762159b35",
+              "file": "billing/claimDetail/claimDetailTest.spec.ts",
+              "line": 179,
+              "column": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-07-10T13:47:50.454Z",
+    "duration": 51853.4,
+    "expected": 1,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "passed": 114,
+  "failed": 7,
+  "flaky": 0,
+  "skipped": 42,
+  "total": 121,
+  "allTotal": 163,
+  "failedTests": [
+    "BR-24316 : Assigned claims should be shown in Assigned claims page",
+    "BR-24321 : Make a claim status Pending and check in the pending page - Professional",
+    "BR-24336 : Assigning a claim - claim list page -  Non Insurance",
+    "BR-24338 : unassign a claim -  Non Insurance",
+    "BR-24351 : Number increase after making Pending a new claim - Non Insurance",
+    "BR-24345 : remove claim from Invalid page - Non Insurance",
+    "BR-24206 : Create a Professional Claim manually -all fields"
+  ],
+  "duration": "56m 54s",
+  "percent": 94
+}
